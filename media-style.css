@@ -58,6 +58,10 @@
         width: 200px;
         height: 200px;
     }
+    .Myproject-Card-Desc-bg{
+        height: 40%;
+        top:-40%;
+    }
 }
 
 @media (max-width: 680px) {
