@@ -1,0 +1,127 @@
+
+@media (max-width: 1250px) {
+    .Logo {
+        margin-left: 20px;
+    }
+
+    .Logo img {
+        width: 80px;
+    }
+
+    .Logo-text {
+        font-size: 18px;
+    }
+
+    .MyName {
+        font-size: 50px;
+    }
+
+    .MyName-Work {
+        font-size: 24px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .MainPage-First {
+        margin-top: 50px;
+        margin-left: 0;
+        font-size: 20px;
+    }
+
+    .MainPage-Second {
+        margin-top: 50px;
+        margin-left: 0;
+        font-size: 20px;
+        padding-bottom: 60px;
+    }
+
+    .MainPage-Button {
+        width: 160px;
+        padding: 8px 16px;
+        font-size: 0.9em;
+    }
+    .RightSide{
+        padding-left: 200px;
+        padding-right: 30px;
+    }
+    .skills-list{
+        padding-right:400px;
+    }
+    .SecondList{
+        padding-left: 200px;
+    }
+    .Myproject-Card{
+        width: 230px;
+        height: 200px;
+    }
+    .VityaPr{
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media (max-width: 680px) {
+ 
+    .RightSide {
+        padding-right: 0px;
+    }
+    .Logo {
+        align-items: center;
+    }
+
+    .MyName {
+        font-size: 40px;
+    }
+
+    .MainPage-First {
+        margin-top: 30px;
+        font-size: 18px;
+    }
+
+    .MainPage-Second {
+        margin-top: 30px;
+        font-size: 18px;
+    }
+
+    .MainPage-Button {
+        width: 140px;
+        font-size: 0.8em;
+    }
+    .RightSide{
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+    .skills-list{
+        padding-right:200px;
+    }
+    .SecondList{
+        padding-left: 100px;
+    }
+    .Myproject-Card{
+        width: 200px;
+        height: 200px;
+    }
+    .VityaPr{
+        width: 200px;
+        height: 200px;
+    }
+    .Abouyme-Desc{
+        font-size: 20px;
+    }
+    .TextContact{
+        font-size: 20px;
+    }
+    .Myproject-Card-Desc-bg{
+        height: 40%;
+        top:-40%;
+    }
+    .BeginOfSlide-Skills{
+        font-size: 20px;  
+    }
+    .skills-list{
+        font-size: 17px;
+    }
+    .BeginOfSlide{
+        font-size: 20px;  
+    }
+}
