@@ -49,6 +49,8 @@
     }
     .SecondList{
         padding-left: 200px;
+        position: relative;
+        top: -80px;
     }
     .Myproject-Card{
         width: 230px;
@@ -92,7 +94,7 @@
         font-size: 0.8em;
     }
     .RightSide{
-        padding-left: 20px;
+        padding-left: 80px;
         padding-right: 30px;
     }
     .skills-list{
@@ -100,10 +102,12 @@
     }
     .SecondList{
         padding-left: 100px;
+        position: relative;
+        top: -80px;
     }
     .Myproject-Card{
-        width: 200px;
-        height: 200px;
+        width: 180px;
+        height: 150px;
     }
     .VityaPr{
         width: 200px;
@@ -115,9 +119,17 @@
     .TextContact{
         font-size: 20px;
     }
+    .Myproject-Card-Desc{
+        padding-top: 12px;
+        font-size: 12px;
+    }
+    .Abouyme-img{
+        width: 40px;
+    }
     .Myproject-Card-Desc-bg{
         height: 40%;
         top:-40%;
+
     }
     .BeginOfSlide-Skills{
         font-size: 20px;  
