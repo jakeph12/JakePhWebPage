@@ -1,5 +1,7 @@
 html {
     scroll-behavior: smooth;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 body
@@ -8,6 +10,7 @@ body
     font-family: 'Poppins', sans-serif;
     margin: 0;
     overflow-x: hidden;
+    width: 100%;
 }
 .MainPage {
     background: linear-gradient(to top left, #FE0988 20%, #000000 50%, #7337BD);
